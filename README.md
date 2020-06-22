@@ -1,9 +1,8 @@
-docker-to-ducy
-==============
+# hey is for horses
 
 Chrome extension that replaces occurrences of 'Imbox' with 'Inbox'
 
-[Direct download of crx file](https://github.com/paulczar/hey-is-for-horses/blob/master/HeyIsForHorses.crx?raw=true)
+[Direct download of crx file](https://github.com/paulczar/hey-is-for-horses/releases/download/1.0.0/hey-is-for-horses.crx)
 
 Installation
 ------------
